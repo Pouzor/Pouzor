@@ -7,7 +7,7 @@
 <h1>About Me! 😎</h1>
 
 - 🚀: I'm currently working @<a href="https://github.com/eleven-labs">Eleven Labs<a>
-- 💬: I’m currently maintainer on many project for 🚀
+- 💬: I’m currently maintainer on many projects for 🚀
 - ⚡: I’m in love with Home Automation and <a href="https://github.com/home-assistant/">Home Assistant<a>
 
   
