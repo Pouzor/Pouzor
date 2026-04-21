@@ -25,7 +25,7 @@
 <Br>
 <h1>Some of my Projects! 🎨</h1>
 <Br>
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pouzor&repo=homelable)](https://github.com/Pouzor/homelable)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eleven-labs&repo=blog.eleven-labs.com)](https://github.com/eleven-labs/blog.eleven-labs.com)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pouzor&repo=homeassistant)](https://github.com/Pouzor/homeassistant)
 
