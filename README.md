@@ -40,7 +40,7 @@ fun_fact: "If it has an IP, I'll monitor it."
 
 | Service | Status | Uptime | Notes |
 |---|:---:|:---:|---|
-| 🧩 **Homelable** | 🟢 `UP` | `99.9%` | 1.3k ⭐ — the star of the show |
+| 🧩 **Homelable** | 🟢 `UP` | `99.9%` | 1.7k ⭐ — the star of the show |
 | 🏠 **Home Assistant** | 🟢 `UP` | `24/7` | Runs the whole house |
 | 📦 **Proxmox cluster** | 🟢 `UP` | `~forever` | 3 nodes, lots of VMs |
 | ☕ **Coffee machine** | 🟡 `REFILL` | `depends` | Critical dependency |
