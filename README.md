@@ -57,9 +57,7 @@ fun_fact: "If it has an IP, I'll monitor it."
 <a href="https://github.com/Pouzor/homelable">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pouzor&repo=homelable&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=1D9E75&text_color=C9D1D9" alt="Homelable"/>
 </a>
-<a href="https://github.com/Pouzor/homelable-hacs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pouzor&repo=homelable-hacs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=1D9E75&text_color=C9D1D9" alt="Homelable HACS"/>
-</a>
+
 
 <br/><br/>
 
