@@ -57,15 +57,27 @@ fun_fact: "If it has an IP, I'll monitor it."
 <a href="https://github.com/Pouzor/homelable">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pouzor&repo=homelable&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=1D9E75&text_color=C9D1D9" alt="Homelable"/>
 </a>
+<a href="https://github.com/Pouzor/homelable-hacs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pouzor&repo=homelable-hacs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=1D9E75&text_color=C9D1D9" alt="Homelable HACS"/>
+</a>
 
 <br/><br/>
 
-<b>Homelable</b> — Self-hosted homelab infrastructure visualizer with live status monitoring, network scanning and Proxmox nested nodes. Scan your LAN, approve devices into your diagram, and watch the health-checks light up. 
+<b>Homelable</b> — Self-hosted homelab infrastructure visualizer with live status monitoring, network scanning and Proxmox nested nodes. Scan your LAN, approve devices into your diagram, and watch the health-checks light up.
 <br/>
-<em>Built with TypeScript · Python · FastAPI · Docker.</em>
+<em>Standalone (Docker / LXC / Web) · TypeScript · Python · FastAPI · Docker.</em>
 
 <br/>
 
+<b>Homelable HACS</b> — Same product, native Home Assistant integration via HACS. Panel runs inside HA, uses HA auth, no extra container.
+<br/>
+<em>Python · Home Assistant · React · Vite.</em>
+
+<br/>
+
+<a href="https://homelable.net">
+  <img src="https://img.shields.io/badge/homelable.net-7F77DD?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117" alt="homelable.net"/>
+</a>
 <a href="https://github.com/Pouzor/homelable">
   <img src="https://img.shields.io/github/stars/Pouzor/homelable?style=for-the-badge&color=EF9F27&logo=github&labelColor=0D1117" alt="Stars"/>
 </a>
@@ -74,6 +86,9 @@ fun_fact: "If it has an IP, I'll monitor it."
 </a>
 <a href="https://github.com/Pouzor/homelable/releases">
   <img src="https://img.shields.io/github/v/release/Pouzor/homelable?style=for-the-badge&color=1D9E75&logo=docker&labelColor=0D1117" alt="Release"/>
+</a>
+<a href="https://github.com/Pouzor/homelable-hacs/releases">
+  <img src="https://img.shields.io/github/v/release/Pouzor/homelable-hacs?style=for-the-badge&color=41BDF5&logo=home-assistant&labelColor=0D1117&label=hacs" alt="HACS Release"/>
 </a>
 
 </div>
