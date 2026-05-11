@@ -21,7 +21,7 @@
 ## ```~/about.txt```
 
 ```yaml
-name: Remy Pouzor
+name: Pouzor
 role: IT Architect @eleven-labs
 location: France 🇫🇷
 status: 💦 Under the rain
