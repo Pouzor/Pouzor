@@ -26,7 +26,7 @@ role: IT Architect @eleven-labs
 location: France 🇫🇷
 status: 💦 Under the rain
 current_focus:
-  - Maintaining Homelable (1.3k ⭐)
+  - Maintaining Homelable (2k ⭐)
   - Breaking and fixing my homelab
   - Automating everything I can at home
 fun_fact: "If it has an IP, I'll monitor it."
