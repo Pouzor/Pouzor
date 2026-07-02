@@ -22,10 +22,12 @@
 
 ```yaml
 name: Pouzor
-role: IT Architect @eleven-labs
+role: Enterprise Architect @Eleven Labs
 location: France 🇫🇷
 status: 💦 Under the rain
 current_focus:
+  - Enterprise Architecture
+  - Information Systems Transformation
   - Maintaining Homelable (2k ⭐)
   - Breaking and fixing my homelab
   - Automating everything I can at home
