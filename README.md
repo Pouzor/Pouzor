@@ -28,7 +28,7 @@ status: 💦 Under the rain
 current_focus:
   - Enterprise Architecture
   - Information Systems Transformation
-  - Maintaining Homelable (2k ⭐)
+  - Maintaining Homelable (3k ⭐)
   - Breaking and fixing my homelab
   - Automating everything I can at home
 fun_fact: "If it has an IP, I'll monitor it."
