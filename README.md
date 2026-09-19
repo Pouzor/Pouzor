@@ -28,7 +28,7 @@ status: 💦 Under the rain
 current_focus:
   - Enterprise Architecture
   - Information Systems Transformation
-  - Maintaining Homelable (3k ⭐)
+  - Maintaining Homelable (3.7k ⭐)
   - Breaking and fixing my homelab
   - Automating everything I can at home
 fun_fact: "If it has an IP, I'll monitor it."
@@ -42,7 +42,7 @@ fun_fact: "If it has an IP, I'll monitor it."
 
 | Service | Status | Uptime | Notes |
 |---|:---:|:---:|---|
-| 🧩 **Homelable** | 🟢 `UP` | `99.9%` | 2k ⭐- the star of the show |
+| 🧩 **Homelable** | 🟢 `UP` | `99.9%` | 3.7k ⭐- the star of the show |
 | 🏠 **Home Assistant** | 🟢 `UP` | `24/7` | Runs the whole house |
 | 📦 **Proxmox cluster** | 🟢 `UP` | `~forever` | 3 nodes, lots of VMs |
 | ☕ **Coffee machine** | 🟡 `REFILL` | `depends` | Critical dependency |
