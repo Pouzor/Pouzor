@@ -57,11 +57,12 @@ fun_fact: "If it has an IP, I'll monitor it."
 <div align="center">
 
 <a href="https://github.com/Pouzor/homelable">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pouzor&repo=homelable&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=1D9E75&text_color=C9D1D9" alt="Homelable"/>
+ <h3> Homelable</h3>
+  <br/>
+  <img width="1512" height="629" alt="Capture d’écran 2026-08-25 à 22 30 48" src="https://github.com/user-attachments/assets/25c228e5-c018-4bda-b559-8e71d98f2ff2" />
 </a>
 
-
-<br/><br/>
+<br/>
 
 <b>Homelable</b> — Self-hosted homelab infrastructure visualizer with live status monitoring, network scanning and Proxmox nested nodes. Scan your LAN, approve devices into your diagram, and watch the health-checks light up.
 <br/>
