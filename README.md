@@ -28,7 +28,7 @@ status: 💦 Under the rain
 current_focus:
   - Enterprise Architecture
   - Information Systems Transformation
-  - Maintaining Homelable (3.7k ⭐)
+  - Maintaining Homelable (4.9k ⭐)
   - Breaking and fixing my homelab
   - Automating everything I can at home
 fun_fact: "If it has an IP, I'll monitor it."
@@ -42,9 +42,10 @@ fun_fact: "If it has an IP, I'll monitor it."
 
 | Service | Status | Uptime | Notes |
 |---|:---:|:---:|---|
-| 🧩 **Homelable** | 🟢 `UP` | `99.9%` | 3.7k ⭐- the star of the show |
+| 🧩 **Homelable** | 🟢 `UP` | `99.9%` | 4.9k ⭐- the star of the show |
+| 🚗 **Renault R5 HACS** | 🟢 `UP` | `99.9%` | Because I love this car |
 | 🏠 **Home Assistant** | 🟢 `UP` | `24/7` | Runs the whole house |
-| 📦 **Proxmox cluster** | 🟢 `UP` | `~forever` | 3 nodes, lots of VMs |
+| 📦 **Proxmox cluster** | 🟢 `UP` | `~forever` | 4 nodes, lots of VMs |
 | ☕ **Coffee machine** | 🟡 `REFILL` | `depends` | Critical dependency |
 | 🐛 **Bug tracker** | 🔴 `BUSY` | `always` | Working as intended |
 
@@ -91,6 +92,22 @@ fun_fact: "If it has an IP, I'll monitor it."
 <a href="https://github.com/Pouzor/homelable-hacs/releases">
   <img src="https://img.shields.io/github/v/release/Pouzor/homelable-hacs?style=for-the-badge&color=41BDF5&logo=home-assistant&labelColor=0D1117&label=hacs" alt="HACS Release"/>
 </a>
+
+</div>
+<br /> <br/>
+<div align="center">
+
+<a href="[[https://github.com/Pouzor/homelable](https://github.com/Pouzor/renault-r5-lovelace)](https://github.com/Pouzor/renault-r5-lovelace)">
+ <h3> Renault R5 Lovelace (HACS)</h3>
+  <br/>
+  <img width="398" height="485" alt="card" src="https://github.com/user-attachments/assets/9e8e4c13-3191-4256-a645-0a2d1d35f0d7" />
+
+</a>
+
+<br/>
+
+Home Assistant Lovelace card for the electric Renault 5 (battery, range, charge state and controls)
+<br/>
 
 </div>
 
